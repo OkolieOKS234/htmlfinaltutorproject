@@ -30,6 +30,6 @@ https://profilepicturemaker.com to make a circular image for your beautiful pict
 
 
 
-![finishedCV.PNG](.\finishedCV.PNG)
+![finishedCV.PNG](finishedCV.PNG)
 
-![finishedCV2.PNG](.\finishedCV2.PNG)
+![finishedCV2.PNG](finishedCV2.PNG)
