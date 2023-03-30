@@ -33,3 +33,10 @@ https://profilepicturemaker.com to make a circular image for your beautiful pict
 ![finishedCV.PNG](finishedCV.PNG)
 
 ![finishedCV2.PNG](finishedCV2.PNG)
+  
+  
+  
+
+https://user-images.githubusercontent.com/98519572/228848066-e3b73a93-74ad-4be1-b5c1-feec80987164.mp4
+
+
