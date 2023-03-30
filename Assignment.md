@@ -8,7 +8,7 @@ Assuming your coach in your training ground has been having problem to sought ou
 
 3. A table that looks like the image below:
    
-   ![tableassignment.PNG](C:\Users\DOKOL\OneDrive\Desktop\WEB%20DEV%20CLASS\TABLES\tableassignment.PNG)
+   ![tableassignment.PNG](tableassignment.PNG)
    
    
 
