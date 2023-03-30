@@ -30,6 +30,6 @@ https://profilepicturemaker.com to make a circular image for your beautiful pict
 
 
 
-![finishedCV.PNG](C:\Users\DOKOL\OneDrive\Desktop\WEB%20DEV%20CLASS\TABLES\finishedCV.PNG)
+![finishedCV.PNG](.\finishedCV.PNG)
 
-![finishedCV2.PNG](C:\Users\DOKOL\OneDrive\Desktop\WEB%20DEV%20CLASS\TABLES\finishedCV2.PNG)
+![finishedCV2.PNG](.\finishedCV2.PNG)
